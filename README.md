@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+# My name is Oleg Chebotaryov.
+
+In 2020, I worked as a programmer at ExpressRMS for 6 months. But I quit due to my service in the armed forces. The main task was to support the operation of the system and the introduction of new functionality. During the work, it was possible to develop an integration module for data exchange with the My Warehouse warehouse system.
+
 <!--
 **it-oleg/it-oleg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
